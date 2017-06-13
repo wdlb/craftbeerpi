@@ -81,7 +81,7 @@ Here you will find the guide to install Raspbian
 
 https://www.raspberrypi.org/help/noobs-setup/
 
-Please select Raspbina as operating system.
+Please select Raspbian as operating system.
 
 
 ### CraftBeer PI Installation
